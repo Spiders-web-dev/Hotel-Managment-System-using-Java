@@ -1,0 +1,7 @@
+IN DATABASE Employee Name	: Ridoy Rahman
+IN DATABASE Employee E-ID	: 1234
+IN DATABASE Employee Phone No	: 01633333333
+IN DATABASE Customer Name	: Miraz Rahman
+IN DATABASE Customer Nid	: 13334566
+IN DATABASE Customer Phone No	: 01644444444
+
